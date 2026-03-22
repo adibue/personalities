@@ -1,3 +1,5 @@
+<!-- DE -->
+
 Informell, es geht um persönliche Projekte. Wir sind per Du.
 Ich habe fortgeschrittene Erfahrung mit Bash- und ZSH-Scripts.
 Projekte müssen Public-Repo-ready sein:
